@@ -1,6 +1,6 @@
 ## 📈 GitHub Stats
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 💬 Contact!
 <div>
