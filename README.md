@@ -1,7 +1,6 @@
 ## 📈 GitHub Stats
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF)
-## 💬 Contact!
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=default&bg_color=ffffff&title_color=00B5E2&text_color=00B5E2&icon_color=00B5E2)## 💬 Contact!
 <div>
   <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
