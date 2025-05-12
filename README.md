@@ -1,7 +1,6 @@
 ## 📈 GitHub Stats
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=blue)
-
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=radical&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF)
 ## 💬 Contact!
 <div>
   <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
