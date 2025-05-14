@@ -1,7 +1,6 @@
 <!-- Banner de boas-vindas -->
 <p align="center">
-  <img src="https://i.ibb.co/YB0LwqVq/Chat-GPT-Image-May-13-2025-11-59-36-PM.png" alt="Welcome" width="100%" 
-    width="10%" 
+  <img src="https://i.ibb.co/YB0LwqVq/Chat-GPT-Image-May-13-2025-11-59-36-PM.png" alt="Welcome" width="50%"
     />
 </p>
 
