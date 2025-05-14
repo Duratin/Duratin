@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/ZzGwb3Vd/Chat-GPT-Image-May-13-2025-11-59-36-PM.png" alt="Welcome" width="60%" /></p>
+<p align="center"><img src="https://imgur.com/a/f9M4HIy" alt="Welcome" width="60%" /></p>
 
 ## 📈 GitHub Stats
 
