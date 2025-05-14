@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/f9M4HIy" alt="Welcome" width="60%" /></p>
+<p align="center"><img src="https://i.imgur.com/jLcSt3T.png" alt="Welcome" width="60%" /></p>
 
 ## 📈 GitHub Stats
 
