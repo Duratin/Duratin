@@ -2,7 +2,7 @@
 
 ## 📈 GitHub Stats
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Duratin&show_icons=true&hide_title=true&count_private=true&theme=default&bg_color=ffffff&title_color=00B5E2&text_color=00B5E2&icon_color=00B5E2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 💬 Contact!
 <div align="center">
